@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# that script listening ports
 netstat -pl
