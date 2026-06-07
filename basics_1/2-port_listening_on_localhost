@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Alternative syntax for netcat listening on a specific local IP
+
+nc -l 98
